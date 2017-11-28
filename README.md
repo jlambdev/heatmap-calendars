@@ -1,5 +1,5 @@
 # Heatmap Calendars
-Previously called AFWC: Assessment and Feedback Workload Calendars
+Previously called AFWC: Assessment and Feedback Workload Calendars. 
 This was a prototype data visualisation project created for Newcastle University in 2015.
 
 ## Folder structure
